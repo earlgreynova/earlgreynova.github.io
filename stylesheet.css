@@ -1,0 +1,23 @@
+h1{
+		text-align: center;   /*centrer sur la page le texte des titres de niveau h1*/
+		font-size:35px;      	/*taille de la police choisie pour les titres h1*/
+		font-family: 'Oswald', sans-serif;
+	}
+	body {
+		color: #5D5857;
+		background-color: #FFFFFF;
+		font-size: 16px;
+		margin-left: 120px;
+		font-family: sans-serif;
+	}
+	
+a {
+  color: blue;
+}
+p {
+	font-size: 17px;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+	
